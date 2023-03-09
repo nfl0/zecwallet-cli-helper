@@ -1,0 +1,19 @@
+{
+  "name": "zecwallet-cli-helper",
+  "version": "1.0.0",
+  "description": "A library for interacting with the ZecWallet command-line interface",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "zecwallet",
+    "cli",
+    "library"
+  ],
+  "author": "nfl0",
+  "license": "MIT",
+  "dependencies": {
+    "child_process": "^1.0.2"
+  }
+}
